@@ -1,4 +1,3 @@
-import ctypes
 import sys
 
 # --- Experimental workaround for Python 3.14 + MediaPipe on Windows ---
